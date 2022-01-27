@@ -61,3 +61,8 @@ git checkout nombre_del_branch
 git push origin nombre_de_la_rama
 ```
 - Sirve para subir los cambios a la rama
+
+```
+Nueva Rama
+```
+- Rama develop-Roberto
