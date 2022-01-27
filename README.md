@@ -36,3 +36,8 @@ git push origin main
 git pull origin main
 ```
 - Sirve para poder descargar los cambios de la nube a nuestro repositorio
+
+```
+git clone URL
+```
+- Sirve para poder descargar el proyecto los cambios de la nube a nuestro repositorio
