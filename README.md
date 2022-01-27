@@ -36,3 +36,28 @@ git push origin main
 git pull origin main
 ```
 - Sirve para poder descargar los cambios de la nube a nuestro repositorio
+
+```
+git clone URL
+```
+- Sirve para poder descargar el proyecto los cambios de la nube a nuestro repositorio
+
+```
+git branch
+```
+- Sirve para listar las ramas que tenemos y dice en cual me encuentro
+
+```
+git checkout -b nombre_del_branch
+```
+- Sirve para crear un branch nuevo
+
+```
+git checkout nombre_del_branch
+```
+- Sirve para cambiar de branch
+
+```
+git push origin nombre_de_la_rama
+```
+- Sirve para subir los cambios a la rama
